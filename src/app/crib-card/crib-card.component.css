@@ -1,0 +1,11 @@
+.thumbnail {
+    min-height: 380px;
+}
+
+.label {
+    display: inline-block;
+}
+
+.button {
+    font-size: 25px;
+}
